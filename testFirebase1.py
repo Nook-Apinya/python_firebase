@@ -9,5 +9,5 @@ data={
     'Position':'Tester'
 
 }
-result=firebase.post('https://python-firebase-125da.firebaseio.com/',data)
+result=firebase.post('https://python-firebase-125da.firebaseio.com/Employee',data)
 print(result)
